@@ -57,12 +57,12 @@
 <?xml version="1.0"?>
 <terms>
 	<term value="word1">
-		<docid count="7">1</docid>
-		<docid count="3">4</docid>
+		<doc id="1" count="7"/>
+		<doc id="2" count="3"/>
 	</term>
 	<term value="word2">
-		<docid count="7">1</docid>
-		<docid count="3">6</docid>
+		<doc id="1" count="7"/>
+		<doc id="3" count="3"/>
 	</term>
 </terms>
 ```
